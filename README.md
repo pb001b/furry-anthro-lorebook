@@ -25,6 +25,5 @@ What this engine for? It it modifed "V11 Тайна DeepSeek" where I changed in
 Avoid any words that can lead to kemonomimi. "wolf-girl" -> "she-world", etc.
 
 # TODO
-> Feelines
-
-> Earn more money and test on Gemini 4 Argon... (impossible)
+- Feelines
+- Earn more money and test on Gemini 4 Argon... (impossible)
