@@ -1,22 +1,19 @@
 **Currently support only canines!**
 
 # Why?
-Because I tired to see a kemonomimi and ferals when I want anthro furry. I tired to see furry lorebooks on chub.ai for specific character card that can't be used globally.
+Because I'm tired of seeing kemonomimi and ferals when I want anthro. I'm tired of seeing furry lorebooks on chub.ai for specific character card that can't be used globally.
 
-**I wanted to make furry world.**
+**I wanted to make furry world that will be universal for any furry-scenario.**
 
-**I wanted to make as much functional as possible in this lorebook.**
+# What lorebook changed
 
-**I wanted to make it universal.**
+- [x] World is anthro's only - any brand, TV, celebs, - everyone is furry.
+- [x] Kemonomimi & humans (as a species) removed.
+- [x] Fully anthro anatomy - bipedal, digitigrade legs, paw-hands with pawpads and claws.
+- [x] Ears and tail move independently, and keep moving through a single reply - not one static pose per reply.
+- [x] Removed a human-like comparisons these model make ("like human who can't wait...", etc).
 
-# What is changes
-
-- [x] Kemonomimi & humans (as specie) removed.
-- [x] Tail and ears movement changes in one AI reply.
-- [x] World is anthro's only - any brand, TV, celebs, - all is furry.
-- [x] Human and animal anatomy combined (with a digitgrade animal legs and paw-hands).
-- [x] Females have human-like genitals.
-- [x] Removed a human-like comparisons these model does.
+*Before, the model wrote: "her face", "his skin was warm", "the head of his cock", "she pressed her lips to his". After the lorebook: "her muzzle", "fur lying taut over muscle", "the tapered tip", "the seam of her mouth pressed to his muzzle".*
 
 # Models
 
