@@ -9,6 +9,14 @@ Because I tired to see a kemonomimi and ferals when I want furry. I tired to see
 
 **I wanted to make it universal.**
 
+# What is fixed
+
+- [x] Kemonomimi
+- [x] Tail and ears movement changes in one AI reply
+- [x] World is anthro's only - any brand, TV, celebs, - all is furry
+- [x] Human and animal anatomy combined (with digitgrade legs and paw-hands)
+- [x] A human-like comparisons these model does
+
 # Models
 
 Tested on deepseek v4.1 flash 1017 (Why not gemini/GLM? I don't have millions to test this lorebook on argon/glm, lol).
@@ -32,13 +40,11 @@ Avoid any words that can lead to kemonomimi. Instead of "wolf-girl" use "she-wor
 - [ ] Feelines
 - [ ] Earn more money and test on Gemini 4 Argon (impossible)
 
-# Contacts & links
+# Contacts, links, credits
 My discord: ```jolinckelpe``` (main) or ```pb001b``` (for help to develop this lorebook/talk)
 
 [This lorebook on chub.ai](https://chub.ai/lorebooks/glum_celebration_90021/furry-4c42eb92b1e5) (updates may have delay in some years)
 
 [Megumin Suite Beta (V11 uploaded here)](https://github.com/Arif-salah/Megumin-Suite-Beta)
-
-# Credits
 
 NSFW anatomy: Anatomically Correct Zoo lorebook
