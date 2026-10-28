@@ -26,7 +26,7 @@ Avoid any words that can lead to kemonomimi. Instead of "wolf-girl" use "she-wor
 
 # TODO
 - Feelines
-- Earn more money and test on Gemini 4 Argon... (impossible)
+- Earn more money and test on Gemini 4 Argon (impossible)
 
 # Contacts & links
 My discord: ```jolinckelpe``` (main) or ```pb001b``` 
