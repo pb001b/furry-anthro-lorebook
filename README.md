@@ -1,11 +1,11 @@
-## Currently support only canines!
+**Currently support only canines!**
 
 # Why?
 Because I tired to see a kemonomimi and ferals when I want furry. I tired to see furry lorebooks on chub.ai for specific character card that can't be used globally.
 
-I wanted to make furry world.
+**I wanted to make furry world.**
 
-I wanted to make as much functional as possible in this lorebook.
+**I wanted to make as much functional as possible in this lorebook.**
 
 # Models
 
@@ -27,8 +27,8 @@ What this engine for? It is a modifed "V11 Тайна DeepSeek" where I changed 
 Avoid any words that can lead to kemonomimi. Instead of "wolf-girl" use "she-world"; "peoples/persons" -> "anthros", etc.
 
 # TODO
-- Feelines
-- Earn more money and test on Gemini 4 Argon (impossible)
+- [ ] Feelines
+- [ ] Earn more money and test on Gemini 4 Argon (impossible)
 
 # Contacts & links
 My discord: ```jolinckelpe``` (main) or ```pb001b``` (for help to develop this lorebook/talk)
