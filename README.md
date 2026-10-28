@@ -19,7 +19,7 @@ Just import in the lorebook menu -> set as global -> enjoy!
 ## Megumin Suite V11:
 Enter the dev mode -> engines -> import -> "V11_Тайна_DeepSeek_(edit).json" (or different name, if you renamed it) -> select it in presets.
 
-What this engine for? It it modifed "V11 Тайна DeepSeek" where I changed in a "Main" prompt "person" and "people" to "character" and "characters". By the way you can do it with the other engines too!
+What this engine for? It is a modifed "V11 Тайна DeepSeek" where I changed in the "Main" prompt ```person``` and ```people``` to ```character``` and ```characters```. By the way you can do it with the other engines too!
 
 ## Character cards and your specific world lorebooks
 Avoid any words that can lead to kemonomimi. Instead of "wolf-girl" use "she-world"; "peoples/persons" -> "anthros", etc.
