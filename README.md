@@ -9,13 +9,13 @@ Because I tired to see a kemonomimi and ferals when I want furry. I tired to see
 
 **I wanted to make it universal.**
 
-# What is fixed
+# What is changes
 
-- [x] Kemonomimi
-- [x] Tail and ears movement changes in one AI reply
-- [x] World is anthro's only - any brand, TV, celebs, - all is furry
-- [x] Human and animal anatomy combined (with digitgrade legs and paw-hands)
-- [x] A human-like comparisons these model does
+- [x] Kemonomimi & humans (as specie) removed.
+- [x] Tail and ears movement changes in one AI reply.
+- [x] World is anthro's only - any brand, TV, celebs, - all is furry.
+- [x] Human and animal anatomy combined (with a digitgrade animal legs and paw-hands).
+- [x] Removed a human-like comparisons these model does.
 
 # Models
 
