@@ -7,6 +7,8 @@ Because I tired to see a kemonomimi and ferals when I want furry. I tired to see
 
 **I wanted to make as much functional as possible in this lorebook.**
 
+**I wanted to make it universal.**
+
 # Models
 
 Tested on deepseek v4.1 flash 1017 (Why not gemini/GLM? I don't have millions to test this lorebook on argon/glm, lol).
@@ -36,3 +38,7 @@ My discord: ```jolinckelpe``` (main) or ```pb001b``` (for help to develop this l
 [This lorebook on chub.ai](https://chub.ai/lorebooks/glum_celebration_90021/furry-4c42eb92b1e5) (updates may have delay in some years)
 
 [Megumin Suite Beta (V11 uploaded here)](https://github.com/Arif-salah/Megumin-Suite-Beta)
+
+# Credits
+
+NSFW anatomy: Anatomically Correct Zoo lorebook
