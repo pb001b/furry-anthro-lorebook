@@ -1,7 +1,7 @@
 **Currently support only canines!**
 
 # Why?
-Because I tired to see a kemonomimi and ferals when I want furry. I tired to see furry lorebooks on chub.ai for specific character card that can't be used globally.
+Because I tired to see a kemonomimi and ferals when I want anthro furry. I tired to see furry lorebooks on chub.ai for specific character card that can't be used globally.
 
 **I wanted to make furry world.**
 
