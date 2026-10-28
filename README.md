@@ -34,7 +34,7 @@ What this engine for? It is a modifed "V11 Тайна DeepSeek" where I changed 
 
 # Tips
 
-## Character cards and your specific world lorebooks
+### Character cards and your specific world lorebooks
 Avoid any words that can lead to kemonomimi. Instead of "wolf-girl" use "she-world"; "peoples/persons" -> "anthros", etc.
 
 # TODO
