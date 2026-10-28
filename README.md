@@ -16,7 +16,7 @@ Just import in the lorebook menu -> set as global -> enjoy!
 
 # Tips
 
-## Megumin Suite:
+## Megumin Suite V11:
 Enter the dev mode -> engines -> import -> "V11_Тайна_DeepSeek_(edit).json" (or different name, if you renamed it) -> select it in presets.
 
 What this engine for? It it modifed "V11 Тайна DeepSeek" where I changed in "Main" prompt "person" and "people" to "character" and "characters". By the way you can do it with the other engines too!
@@ -32,3 +32,5 @@ Avoid any words that can lead to kemonomimi. Instead of "wolf-girl" use "she-wor
 My discord: ```jolinckelpe``` (main) or ```pb001b``` 
 
 [This lorebook on chub.ai](https://chub.ai/lorebooks/glum_celebration_90021/furry-4c42eb92b1e5) (updates may have delay in some years)
+
+[Megumin Suite Beta (V11 uploaded here)](https://github.com/Arif-salah/Megumin-Suite-Beta)
