@@ -22,7 +22,7 @@ Enter the dev mode -> engines -> import -> "V11 Тайна DeepSeek (copy).json"
 What this engine for? It it modifed "V11 Тайна DeepSeek" where I changed in "Main" prompt "person" and "people" to "character" and "characters". By the way you can do it with the other engines too!
 
 ## Character cards and your specific world lorebooks
-Avoid any words that can lead to kemonomimi. "wolf-girl" -> "she-world", etc.
+Avoid any words that can lead to kemonomimi. Instead of "wolf-girl" use "she-world"; "peoples/persons" -> "anthros", etc.
 
 # TODO
 - Feelines
