@@ -17,7 +17,7 @@ Just import in the lorebook menu -> set as global -> enjoy!
 # Tips
 
 ## Megumin Suite:
-Enter the dev mode -> engines -> import -> "V11 Тайна DeepSeek (copy).json" (or different name, if you renamed it) -> select it in presets.
+Enter the dev mode -> engines -> import -> "V11_Тайна_DeepSeek_(edit).json" (or different name, if you renamed it) -> select it in presets.
 
 What this engine for? It it modifed "V11 Тайна DeepSeek" where I changed in "Main" prompt "person" and "people" to "character" and "characters". By the way you can do it with the other engines too!
 
