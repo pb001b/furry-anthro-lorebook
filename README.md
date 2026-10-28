@@ -1,3 +1,5 @@
+## Currently support only canines!
+
 # Why?
 Because I tired to see a kemonomimi and ferals when I want furry. I tired to see furry lorebooks on chub.ai for specific character card that can't be used globally.
 
@@ -29,7 +31,7 @@ Avoid any words that can lead to kemonomimi. Instead of "wolf-girl" use "she-wor
 - Earn more money and test on Gemini 4 Argon (impossible)
 
 # Contacts & links
-My discord: ```jolinckelpe``` (main) or ```pb001b``` 
+My discord: ```jolinckelpe``` (main) or ```pb001b``` (for help to develop this lorebook/talk)
 
 [This lorebook on chub.ai](https://chub.ai/lorebooks/glum_celebration_90021/furry-4c42eb92b1e5) (updates may have delay in some years)
 
