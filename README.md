@@ -28,7 +28,7 @@ Avoid any words that can lead to kemonomimi. Instead of "wolf-girl" use "she-wor
 - Feelines
 - Earn more money and test on Gemini 4 Argon... (impossible)
 
-# Other 
+# Contacts & links
 My discord: ```jolinckelpe``` (main) or ```pb001b``` 
 
 [This lorebook on chub.ai](https://chub.ai/lorebooks/glum_celebration_90021/furry-4c42eb92b1e5) (updates may have delay in some years)
