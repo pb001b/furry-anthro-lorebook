@@ -15,8 +15,8 @@ Because I tired to see a kemonomimi and ferals when I want anthro furry. I tired
 - [x] Tail and ears movement changes in one AI reply.
 - [x] World is anthro's only - any brand, TV, celebs, - all is furry.
 - [x] Human and animal anatomy combined (with a digitgrade animal legs and paw-hands).
-- [x] Removed a human-like comparisons these model does.
 - [x] Females have human-like genitals.
+- [x] Removed a human-like comparisons these model does.
 
 # Models
 
