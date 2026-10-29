@@ -5,7 +5,7 @@ Because I'm tired of seeing kemonomimi and ferals when I want anthro. I'm tired 
 
 **I wanted to make furry world that will be universal for any furry-scenario.**
 
-# What lorebook changed
+# What this lorebook changes
 
 - [x] World is anthro's only - any brand, TV, celebs, - everyone is furry.
 - [x] Kemonomimi & humans (as a species) removed.
@@ -32,7 +32,7 @@ What this engine for? It is a modifed "V11 Тайна DeepSeek" where I changed 
 # Tips
 
 ### Character cards and your specific world lorebooks
-Avoid any words that can lead to kemonomimi. Instead of "wolf-girl" use "she-world"; "peoples/persons" -> "anthros", etc.
+Avoid any words that can lead to kemonomimi. Instead of "wolf-girl" use "she-wolf"; "peoples/persons" -> "anthros", etc.
 
 # TODO
 - [ ] Feelines
@@ -45,4 +45,4 @@ My discord (for help to develop this lorebook/talk): ```jolinckelpe``` (main) or
 
 [Megumin Suite Beta (V11 uploaded here)](https://github.com/Arif-salah/Megumin-Suite-Beta)
 
-NSFW anatomy: Anatomically Correct Zoo lorebook
+NSFW anatomy: "ACZ" lorebook
