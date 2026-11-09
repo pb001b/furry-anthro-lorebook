@@ -44,7 +44,9 @@ Avoid any words that can lead to kemonomimi. Instead of "wolf-girl" use "she-wol
 # Contacts, links, credits
 My discord (for help to develop this lorebook/talk): ```jolinckelpe``` (main) or ```pb001b``` (alt)
 
-[This lorebook on chub.ai](https://chub.ai/lorebooks/glum_celebration_90021/furry-4c42eb92b1e5) (updates may have delay in some years)
+[This lorebook on chub.ai (V1)](https://chub.ai/lorebooks/glum_celebration_90021/furry-4c42eb92b1e5) (updates may have delay in some years)
+
+[This lorebook on chub.ai (V2)](https://chub.ai/lorebooks/glum_celebration_90021/universal-furry-lorebook-canines-and-felines-837d1f915f4e) (updates may have delay in some years)
 
 [Megumin Suite Beta (V11 uploaded here)](https://github.com/Arif-salah/Megumin-Suite-Beta)
 
