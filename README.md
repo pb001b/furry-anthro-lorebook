@@ -1,4 +1,4 @@
-**Currently support only canines!**
+**Currently support only canines and felines!**
 
 # Why?
 Because I'm tired of seeing kemonomimi and ferals when I want anthro. I'm tired of seeing furry lorebooks on chub.ai for specific character card that can't be used globally.
@@ -37,7 +37,7 @@ What this engine for? It is a modifed "V11 Тайна DeepSeek" where I changed 
 Avoid any words that can lead to kemonomimi. Instead of "wolf-girl" use "she-wolf"; "people/person(s)" -> "anthro(s)"/"character(s)", etc.
 
 # TODO
-- [x] Feelines
+- [x] Felines
 - [ ] Earn more money and test on Gemini 4 Argon (impossible)
 
 # Contacts, links, credits
