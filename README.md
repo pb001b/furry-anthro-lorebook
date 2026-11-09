@@ -38,6 +38,7 @@ Avoid any words that can lead to kemonomimi. Instead of "wolf-girl" use "she-wol
 
 # TODO
 - [x] Felines
+- [ ] Equines
 - [ ] Earn more money and test on Gemini 4 Argon (impossible)
 
 # Contacts, links, credits
