@@ -19,6 +19,8 @@ Because I'm tired of seeing kemonomimi and ferals when I want anthro. I'm tired 
 
 Tested on deepseek v4.1 flash 1017 (Why not gemini/GLM? I don't have millions to test this lorebook on argon/glm, lol).
 
+Gemini 3.7 works really well!
+
 # How to install
 It is simple! 
 
@@ -35,7 +37,7 @@ What this engine for? It is a modifed "V11 Тайна DeepSeek" where I changed 
 Avoid any words that can lead to kemonomimi. Instead of "wolf-girl" use "she-wolf"; "people/person(s)" -> "anthro(s)"/"character(s)", etc.
 
 # TODO
-- [ ] Feelines
+- [x] Feelines
 - [ ] Earn more money and test on Gemini 4 Argon (impossible)
 
 # Contacts, links, credits
