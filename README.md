@@ -11,7 +11,7 @@
 </div>
 
 > [!IMPORTANT]
-> **Strict Species Scope:** Currently supports **Canines** and **Felines** (with **Equines** next on the list). I have zero plans to include reptiles, rodents, bears, avians, insects, etc. If you want them — feel free to fork the lorebook and add them yourself.
+> **Strict Species Scope:** Currently supports **Canines** and **Felines** (with **Equines** next on the list). I have zero plans to include reptiles, rodents, bears, avians, insects, etc. If you want them -  feel free to fork the lorebook and add them yourself.
 
 ---
 
