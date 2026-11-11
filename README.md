@@ -90,4 +90,3 @@ Need help, want to contribute, or just chat? Hit me up on Discord: **`jolinckelp
 
 **Credits:**
 * Base Preset: [Megumin Suite Beta (V11)](https://github.com/Arif-salah/Megumin-Suite-Beta)
-* NSFW Anatomy base: **"ACZ" Lorebook**
