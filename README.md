@@ -1,53 +1,93 @@
-**Currently support only canines and felines!**
+<div align="center">
 
-# Why?
-Because I'm tired of seeing kemonomimi and ferals when I want anthro. I'm tired of seeing furry lorebooks on chub.ai for specific character card that can't be used globally.
+# UNIVERSAL FURRY LOREBOOK
+**Strict anthropomorphic world-building & prose enforcement for SillyTavern.**
 
-**I wanted to make furry world that will be universal for any furry-scenario.**
+![Target](https://img.shields.io/badge/SillyTavern-World_Info-000000?style=for-the-badge)
+![Scope](https://img.shields.io/badge/Scope-Global-blue?style=for-the-badge)
+![Species](https://img.shields.io/badge/Species-Canines_%26_Felines-success?style=for-the-badge)
+![Rating](https://img.shields.io/badge/NSFW-Supported-red?style=for-the-badge)
 
-# What this lorebook changes
+</div>
 
-- [x] World is anthro's only - any brand, TV, celebs, - everyone is furry.
-- [x] Kemonomimi & humans (as a species) removed.
-- [x] Fully anthro anatomy - bipedal, plantigrade legs with pawpads and claws, paw-hands with pawpads and claws.
-- [x] Ears and tail move independently, and keep moving through a single reply - not one static pose per reply.
-- [x] Removed a human-like comparisons these model make ("like human who can't wait...", etc).
+> [!IMPORTANT]
+> **Current State:** Actively supports **Canines** and **Felines** only. Other species are in the works.
 
-*Before, the model wrote: "her face", "his skin was warm", "the head of his cock", "she pressed her lips to his". After the lorebook: "her muzzle", "fur lying taut over muscle", "the tapered tip", "the seam of her mouth pressed to his muzzle".*
+---
 
-# Models
+## // Why?
+Because I'm tired of seeing kemonomimi and ferals when I want pure anthro. I'm tired of furry lorebooks on Chub.ai being locked to specific character cards instead of working globally. 
 
-Tested on deepseek v4.1 flash 1017 (Why not gemini/GLM? I don't have millions to test this lorebook on argon/glm, lol).
+**The goal:** A universal, plug-and-play furry world that works with *any* scenario and forces the LLM to respect anthro anatomy.
 
-Gemini 3.7 works really well!
+## // What This Lorebook Changes
 
-# How to install
-It is simple! 
+* **100% Anthro World:** Brands, TV, celebrities, background characters — everyone is furry.
+* **No Humans / No Kemonomimi:** Humans as a species are completely wiped from the context.
+* **Strict Anatomy:** Bipedal, plantigrade legs and paw-hands with pawpads and claws.
+* **Dynamic Body Language:** Ears and tails move independently and remain active *throughout* a single reply (no more static poses).
+* **Prose & Metaphor Fix:** Eliminates jarring human-centric comparisons (e.g., *"like a human who can't wait..."*).
 
-Just import in the lorebook menu -> set as global -> enjoy!
+### Prose Comparison:
+```diff
+- BEFORE: "Her face flushed. His skin was warm as she pressed her lips to his."
++ AFTER:  "Her ears pinned back. Fur lay taut over muscle as she pressed her muzzle to his."
+```
 
-### Megumin Suite V11:
-Enter the dev mode -> engines -> import -> "V11_Тайна_DeepSeek_(Copy).json" (or different name, if you renamed it) -> select it in presets.
+---
 
-What this engine for? It is a modifed "V11 Тайна DeepSeek" where I changed in the "Main" prompt ```person``` and ```people``` to ```character``` and ```characters```. By the way you can do it with other engines too!
+## // Tested Models
 
-# Tips
+* **DeepSeek v4.1 flash 1017** — Primary testing ground. *(Why not Claude/Argon/GLM? Because I don't have millions of dollars to burn on API tests, lol).*
+* **Gemini 3.7** — Works really well!
 
-### Character cards and your specific world lorebooks
-Avoid any words that can lead to kemonomimi. Instead of "wolf-girl" use "she-wolf"; "people/person(s)" -> "anthro(s)"/"character(s)", etc.
+---
 
-# TODO
+## // Installation & Setup
+
+### 1. The Lorebook
+It's dead simple:
+`World Info (Lorebook Menu)` ➔ `Import` ➔ `Set as Global` ➔ **Enjoy.**
+
+### 2. Megumin Suite V11 (Recommended Preset)
+Included in this repo is a modified engine preset that strips human bias at the system prompt level.
+1. Go to `Dev Mode` ➔ `Engines` ➔ `Import`.
+2. Select `V11_Тайна_DeepSeek_(Copy).json` (or whatever you renamed it to).
+3. Activate it in your presets.
+
+> [!NOTE]
+> **What does this engine do?** It's a modified *"V11 Тайна DeepSeek"* where instances of `person` and `people` in the Main prompt are replaced with `character` and `characters`. You can easily apply this same tweak to your own favorite presets!
+
+---
+
+## // Prompting Tips
+To prevent the LLM from hallucinating human traits or kemonomimi, adjust the vocabulary in your character cards and local lorebooks:
+
+| ❌ Avoid Using | ✅ Use Instead |
+| :--- | :--- |
+| `wolf-girl`, `cat-boy` | `she-wolf`, `tomcat`, `feline` |
+| `people`, `person(s)` | `anthro(s)`, `character(s)`, `NPC(s)` |
+| `skin`, `hands`, `feet` | `fur/hide`, `paws`, `hindpaws` |
+
+---
+
+## // Roadmap (TODO)
+- [x] Canines
 - [x] Felines
 - [ ] Equines
-- [ ] Earn more money and test on Gemini 4 Argon (impossible)
+- [ ] Earn more money and test on Gemini 4 Argon *(mission impossible)*
 
-# Contacts, links, credits
-My discord (for help to develop this lorebook/talk): ```jolinckelpe``` (main) or ```pb001b``` (alt)
+---
 
-[This lorebook on chub.ai (V1)](https://chub.ai/lorebooks/glum_celebration_90021/furry-4c42eb92b1e5) (updates may have delay in some years)
+## // Links, Contacts & Credits
 
-[This lorebook on chub.ai (V2)](https://chub.ai/lorebooks/glum_celebration_90021/universal-furry-lorebook-canines-and-felines-837d1f915f4e) (updates may have delay in some years)
+Need help, want to contribute, or just chat? Hit me up on Discord: **`jolinckelpe`** (main) or **`pb001b`** (alt).
 
-[Megumin Suite Beta (V11 uploaded here)](https://github.com/Arif-salah/Megumin-Suite-Beta)
+[![Chub V2](https://img.shields.io/badge/Chub.ai-Lorebook_V2_(Latest)-orange?style=for-the-badge)](https://chub.ai/lorebooks/glum_celebration_90021/universal-furry-lorebook-canines-and-felines-837d1f915f4e)
+[![Chub V1](https://img.shields.io/badge/Chub.ai-Lorebook_V1_(Legacy)-grey?style=for-the-badge)](https://chub.ai/lorebooks/glum_celebration_90021/furry-4c42eb92b1e5)
 
-NSFW anatomy: "ACZ" lorebook
+*(Note: Chub.ai updates may be delayed by a few years).*
+
+**Credits:**
+* Base Preset: [Megumin Suite Beta (V11)](https://github.com/Arif-salah/Megumin-Suite-Beta)
+* NSFW Anatomy base: **"ACZ" Lorebook**
