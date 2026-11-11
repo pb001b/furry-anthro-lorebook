@@ -9,7 +9,7 @@ Because I'm tired of seeing kemonomimi and ferals when I want anthro. I'm tired 
 
 - [x] World is anthro's only - any brand, TV, celebs, - everyone is furry.
 - [x] Kemonomimi & humans (as a species) removed.
-- [x] Fully anthro anatomy - bipedal, digitigrade legs, paw-hands with pawpads and claws.
+- [x] Fully anthro anatomy - bipedal, plantigrade legs with pawpads and claws, paw-hands with pawpads and claws.
 - [x] Ears and tail move independently, and keep moving through a single reply - not one static pose per reply.
 - [x] Removed a human-like comparisons these model make ("like human who can't wait...", etc).
 
