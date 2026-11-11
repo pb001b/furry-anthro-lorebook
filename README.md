@@ -67,7 +67,7 @@ To prevent the LLM from hallucinating human traits or kemonomimi, adjust the voc
 | :--- | :--- |
 | `wolf-girl`, `cat-boy` | `she-wolf`, `tomcat`, `feline` |
 | `people`, `person(s)` | `anthro(s)`, `character(s)`, `NPC(s)` |
-| `skin`, `hands`, `feet` | `fur/hide`, `paws`, `hindpaws` |
+| `face`, `skin`, `hands`, `feet` | `muzzle`, `fur/hide`, `paws`, `hindpaws` |
 
 ---
 
