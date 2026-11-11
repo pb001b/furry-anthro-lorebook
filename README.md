@@ -49,8 +49,8 @@ Because I'm tired of seeing kemonomimi and ferals when I want pure anthro. I'm t
 It's dead simple:
 `World Info (Lorebook Menu)` ➔ `Import` ➔ `Set as Global` ➔ **Enjoy.**
 
-### 2. Megumin Suite V11 (Recommended Preset)
-Included in this repo is a modified engine preset that strips human bias at the system prompt level.
+### 2. Megumin Suite V11
+Included in this repo is a modified V11 engine preset that strips human bias at the system prompt level.
 1. Go to `Dev Mode` ➔ `Engines` ➔ `Import`.
 2. Select `V11_Тайна_DeepSeek_(Copy).json` (or whatever you renamed it to).
 3. Activate it in your presets.
